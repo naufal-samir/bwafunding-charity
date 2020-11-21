@@ -1,4 +1,7 @@
-<script>
+<h1>Charity Test</h1>
+
+
+<!-- <script>
 	export let name;
 </script>
 
@@ -27,4 +30,4 @@
 			max-width: none;
 		}
 	}
-</style>
+</style> -->
